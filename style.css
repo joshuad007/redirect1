@@ -26,6 +26,9 @@ h1, h2{
     align-items: center;
 }
 
+h1{font-size: 50px;}
+h2{font-size: 40px;}
+
 .center {
     display: block;
     margin-left: auto;
@@ -42,7 +45,7 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 15px;
+    font-size: 25px;
     border-radius: 12px;
     align-self: center;
 }
